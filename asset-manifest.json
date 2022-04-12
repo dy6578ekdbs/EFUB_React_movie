@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EFUB_React_movie/static/css/main.faacf7ce.css",
+    "main.js": "/EFUB_React_movie/static/js/main.5114cdbb.js",
+    "index.html": "/EFUB_React_movie/index.html",
+    "main.faacf7ce.css.map": "/EFUB_React_movie/static/css/main.faacf7ce.css.map",
+    "main.5114cdbb.js.map": "/EFUB_React_movie/static/js/main.5114cdbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faacf7ce.css",
+    "static/js/main.5114cdbb.js"
+  ]
+}
